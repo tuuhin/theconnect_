@@ -46,6 +46,8 @@ Go to the project directory
 
 Install dependencies
 
+- The requirements.txt file contains all the module,packages in my flask env these all may not be required for this project.Though it's adviced to install all the packages
+
 ```bash
     pip install -r requirements.txt
     npm install
