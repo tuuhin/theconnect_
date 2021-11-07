@@ -35,7 +35,7 @@ Again if you want to use mysql as your backend then its adviced to keep the cred
 Clone the project
 
 ```bash
-    git clone https://link-to-project
+    git clone https://github.com/tuuhin/theconnect_.git
 ```
 
 Go to the project directory
